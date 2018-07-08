@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Jul 08 13:05:53 EEST 2018
+#Sun Jul 08 13:52:19 EEST 2018
 20.base=C\:\\Users\\radad\\Documents\\GitHub\\FGC_BG_2018\\TeamCode\\build\\intermediates\\assets\\debug
 143.base=C\:\\Users\\radad\\Documents\\GitHub\\FGC_BG_2018\\TeamCode\\build\\intermediates\\assets\\debug
 237.path=images/ftcI2cDeviceReader.png
