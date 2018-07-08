@@ -1,1 +1,1 @@
-[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":3},"path":"resources-release.ap_","properties":{"packageId":"com.qualcomm.ftcrobotcontroller","split":"","minSdkVersion":"19"}}]
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":3,"versionName":"2018.2","enabled":true,"outputFile":"TeamCode-release-unsigned.apk","fullName":"release","baseName":"release"},"path":"resources-release.ap_","properties":{"packageId":"com.qualcomm.ftcrobotcontroller","split":"","minSdkVersion":"19"}}]

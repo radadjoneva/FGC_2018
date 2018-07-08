@@ -1,25 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+            "outputFile": "C:\\Users\\radad\\Documents\\GitHub\\FGC_BG_2018\\TeamCode\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\FtcRobotController\\build\\intermediates\\bundles\\release\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "58",
-                        "endOffsets": "109"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\FtcRobotController\\build\\intermediates\\bundles\\release\\res\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+                    "source": "C:\\Users\\radad\\Documents\\GitHub\\FGC_BG_2018\\FtcRobotController\\build\\intermediates\\packaged_res\\release\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

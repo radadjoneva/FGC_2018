@@ -1,26 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\release\\values-v14\\values-v14.xml",
+            "outputFile": "C:\\Users\\radad\\Documents\\GitHub\\FGC_BG_2018\\TeamCode\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\release\\res\\values-v14\\values-v14.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "201"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\app\\ftc_app\\TeamCode\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
-            "map": [
-                {
-                    "source": "C:\\Users\\shager\\FG_2018_Public\\first_global_sdk\\lib\\RobotCore\\build\\intermediates\\bundles\\release\\res\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\radad\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\d867bbf0a580d5cea24cf9d120762655\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
